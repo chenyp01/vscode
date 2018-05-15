@@ -36,7 +36,5 @@ export default {
 </script>
 
 <style>
-  .test-block {
-
-  }
+  
 </style>
