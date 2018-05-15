@@ -3,7 +3,10 @@
     <basic-container>
       <h1>TestBlock</h1>
     </basic-container>
-    <div>{{content}}</div>
+    <div>
+      你的参数是：
+      {{content}}
+    </div>
   </div>
 </template>
 
