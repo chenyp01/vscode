@@ -1,6 +1,6 @@
 {
   "name": "example-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": {
     "name": "ICE Team",
@@ -16,7 +16,9 @@
   "layoutConfig": {
     "name": "example-layout",
     "title": "示例区块",
-    "categories": ["其他"],
+    "categories": [
+      "其他"
+    ],
     "screenshot": ""
   }
 }
