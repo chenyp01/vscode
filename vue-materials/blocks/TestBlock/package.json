@@ -1,8 +1,8 @@
 {
-  "name": "@vue-materials/test-block-block",
+  "name": "first-page",
   "version": "1.0.1",
   "description": "desc",
-  "author": "benben <benben@localhost>",
+  "author": "chenyp",
   "files": [
     "src/",
     "lib/"
@@ -17,10 +17,6 @@
     "vue",
     "block"
   ],
-  "publishConfig": {
-    "access": "public",
-    "registry": "http://registry.npmjs.com"
-  },
   "dependencies": {
     "@vue-materials/basic-container": "^1.0.0",
     "bootstrap": "^4.1.1",
