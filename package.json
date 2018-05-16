@@ -2,7 +2,7 @@
   "name": "materials-app",
   "version": "1.0.0",
   "description": "desc",
-  "author": "benben <benben@localhost>",
+  "author": "chenyp",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "publish": "lerna run prepublish && lerna publish",
@@ -27,7 +27,7 @@
     "findup": "^0.1.5",
     "ghooks": "^2.0.2",
     "ice-scripts": "^0.1.0",
-    "lerna": "^2.5.1",
+    "lerna": "^2.11.0",
     "mark-twain": "^2.0.2",
     "moment": "^2.20.1",
     "request": "^2.83.0",
